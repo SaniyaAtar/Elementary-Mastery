@@ -1,0 +1,21 @@
+{
+  "name": "elementary-mastery",
+  "version": "1.0.0",
+  "description": "seminar project",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "s"
+  ],
+  "author": "saniya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
